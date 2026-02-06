@@ -1,5 +1,5 @@
 # %% [markdown]
-# # Machine Data Analysis - Assignment Report
+# # Machine Data Analysis -  Report
 # 
 # **Course:** D7015B
 # 
